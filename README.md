@@ -1,7 +1,7 @@
 # My Favorite Movie
 ## Oppenheimer
 ## About the Movie
-### Oppenheimer is one of my favorite movies because it tells the story of J. Robert Oppenheimer and the development of the atomic bomb.
+ Oppenheimer is one of my favorite movies because it tells the story of J. Robert Oppenheimer and the development of the atomic bomb.
 ## Main Characters
 - J. Robert Oppenheimer
 - Lewis Strauss
