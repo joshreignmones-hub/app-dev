@@ -13,5 +13,6 @@
 3. Amazing cinematography
    
 **Favorite Character: J. Robert Oppenheimer**
-*Favorite Genre: Historical Drama
+
+*Favorite Genre: Historical Drama*
 > "Now I am become Death, the destroyer of worlds."
