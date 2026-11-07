@@ -11,6 +11,7 @@
 1. Interesting historical story
 2. Great acting
 3. Amazing cinematography
+   
 **Favorite Character: J. Robert Oppenheimer**
 *Favorite Genre: Historical Drama
 > "Now I am become Death, the destroyer of worlds."
